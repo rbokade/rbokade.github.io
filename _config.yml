@@ -22,7 +22,7 @@ repository               : "rbokade/rbokade.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Rohit Bokade"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate applying machine learning to traffic, manufacturing, and sustainability."
