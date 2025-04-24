@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Industrial Engineering**, Northeastern University, Boston, USA (Expected April 2025)  
+* **Ph.D. in Industrial Engineering**, Northeastern University, Boston, USA  (April 2025)
   * Advisor: Prof. Xiaoning "Sarah" Jin  
   * Thesis: *Towards Practical Multi-Agent Reinforcement Learning for Urban Traffic Signal Control*
 
