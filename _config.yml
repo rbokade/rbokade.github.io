@@ -9,6 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "minimal-mistakes-jekyll"
+minimal_mistakes:
+  color_scheme: "accent"
 title                    : "Rohit Bokade"
 title_separator          : "-"
 name                     : &name "Your Name"
