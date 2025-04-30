@@ -1,6 +1,6 @@
 ---
 title: "Thermal imaging based non-destructive testing for fault detection in cold spray additive manufacturing"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/cs_demo.gif'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/cs_anomaly_detection.jpg'>"
 collection: portfolio
 ---
 
