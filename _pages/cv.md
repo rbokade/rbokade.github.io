@@ -22,8 +22,8 @@ Education
 Research Experience
 ======
 * **Northeastern University – Research Assistant**  
-  *Boston, MA | Sep 2018 – Present*
-  - Thermal & aeroacoustic anomaly detection in Cold Spray (2024–)
+  *Boston, MA | Sep 2018 – April 2025*
+  - Thermal & aeroacoustic anomaly detection in Cold Spray (2024–2025)
   - Real-time anomaly detection using thermal imaging (2020–2023)
   - Review of multimodal data fusion methods in engineering (2019)
 
