@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+=========
+
 * **Ph.D. in Industrial Engineering**, Northeastern University, Boston, USA  (April 2025)
   * Advisor: Prof. Xiaoning "Sarah" Jin  
   * Thesis: *Towards Practical Multi-Agent Reinforcement Learning for Urban Traffic Signal Control*
@@ -20,7 +21,8 @@ Education
 * **B.S. in Mechanical Engineering**, Nagpur University, India (Jul 2016)
 
 Research Experience
-======
+===================
+
 * **Northeastern University – Research Assistant**  
   *Boston, MA | Sep 2018 – April 2025*
   - Thermal & aeroacoustic anomaly detection in Cold Spray (2024–2025)
@@ -41,6 +43,7 @@ Research Experience
   
 Skills
 ======
+
 * **Machine Learning**: Deep Learning, Reinforcement Learning, Multi-Agent Systems  
 * **Programming**: Python, R, MATLAB, SQL  
 * **Frameworks**: PyTorch, TensorFlow, Scikit-learn, OpenAI Gym  
@@ -49,7 +52,7 @@ Skills
 * **Cloud**: AWS, GCP, Kubernetes, EC2, S3
 
 Publications
-======
+============
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
