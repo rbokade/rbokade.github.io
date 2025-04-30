@@ -9,3 +9,5 @@ citation: 'Rohit Bokade, Xiaoning Jin. (2025). &quot;Pytsc: A unified platform f
 excerpt: '[GitHub](https://github.com/rbokade/pytsc) | [Homepage](https://rbokade.github.io/pytsc/)'
 image: /images/pytsc_logo.png
 ---
+
+![]( /images/pytsc_logo.png )
