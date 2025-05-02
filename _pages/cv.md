@@ -49,7 +49,7 @@ Skills
 * **Frameworks**: PyTorch, TensorFlow, Scikit-learn, OpenAI Gym  
 * **Simulation**: SUMO, CityFlow, Vissim  
 * **Tools**: LabView, Git, LaTeX, Linux  
-* **Cloud**: AWS, GCP, Kubernetes, EC2, S3
+* **Cloud**: AWS, GCP
 
 Publications
 ============
